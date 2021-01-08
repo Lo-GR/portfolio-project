@@ -9,6 +9,10 @@ body {
   box-sizing: border-box;
 }
 
+h2 {
+  font-family:serif;
+}
+
 #title {
   text-align: center;
 }
@@ -16,13 +20,12 @@ body {
 .aboutme {
   width: 75%;
   height: auto;
-  padding: 15px;
+  padding: 10px;
   border-width: 20px;
   background-color: #C9F0FF;
   margin-left: auto;
   margin-right: auto;
   box-align: center;
-  word-wrap: break-word;
 
 }
 
@@ -43,6 +46,40 @@ body {
 
 .personalpic {
   width: 20%;
+  margin: auto;
+  height: auto;
+  border-style: solid;
+  border-color: black;
+}
+.education {
+  width: 75%;
+  height: auto;
+  padding: 10px;
+  border-width: 20px;
+  background-color: #C9F0FF;
+  margin-left: auto;
+  margin-right: auto;
+  box-align: center;
+
+}
+
+.education p {
+  font-family: sans-serif;
+  margin: auto;
+  margin-right: 30px;
+  height: auto;
+  min-width: 70%;
+
+}
+
+.education h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.backgroundpic {
+  width: 20%;
+  float: right;
   margin: auto;
   height: auto;
   border-style: solid;
