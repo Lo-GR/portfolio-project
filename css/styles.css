@@ -9,7 +9,9 @@ body {
   box-sizing: border-box;
   font-family:serif;
 }
-
+footer {
+  font-size: small;
+}
 .highlight {
   color: #F46036;
 }
