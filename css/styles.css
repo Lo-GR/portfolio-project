@@ -6,8 +6,19 @@
 
 body {
   background-color: #EAFFFD;
+  box-sizing: border-box
 }
 
 #title {
   text-align: center;
+}
+
+.aboutme {
+  width: 50%;
+  padding: 10px;
+  border-width: 20px;
+  background-color: #C9F0FF;
+  margin: 20px;
+  box-align: center;
+
 }
