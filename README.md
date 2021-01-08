@@ -16,9 +16,6 @@
 ## _Description_
 This browser page includes the complete works of Logan's work at Epicodus, including finished and unfinished quality work. Also includes an about Me, background, and other personal information about Logan.
 
-## _Contributor(s)_
-Logan Roth <diamondintheroth@gmail.com> - [Github(Lo-GR)](https://github.com/Lo-GR)
-
 ## _Setup/Installation_
 * In Git terminal:
 1. Type _cd desktop_ to change directory to desktop. 
@@ -29,7 +26,7 @@ Logan Roth <diamondintheroth@gmail.com> - [Github(Lo-GR)](https://github.com/Lo-
 * Go to portfolio-project directory in OS GUI. 
 * Open index.html in browser of choice.
 
-## _Known Bugs__
+## _Known Bugs_
 * No known bugs at this time. Please contact Contributor if one is discovered during use.
 
 ## _License_
