@@ -6,7 +6,7 @@
 
 body {
   background-color: #EAFFFD;
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 
 #title {
@@ -14,11 +14,29 @@ body {
 }
 
 .aboutme {
-  width: 50%;
+  width: 75%;
+  height: auto;
   padding: 10px;
   border-width: 20px;
   background-color: #C9F0FF;
-  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
   box-align: center;
+}
 
+.aboutme p {
+  font-family: sans-serif;
+}
+
+.aboutme h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.personalpic {
+  width: 20%;
+  margin: auto;
+  height: auto;
+  border-style: solid;
+  border-color: black;
 }
