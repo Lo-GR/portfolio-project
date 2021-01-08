@@ -51,7 +51,7 @@ h2 {
   border-style: solid;
   border-color: black;
 }
-.education {
+.backinfo {
   width: 75%;
   height: auto;
   padding: 10px;
@@ -63,7 +63,7 @@ h2 {
 
 }
 
-.education p {
+.backinfo p {
   font-family: sans-serif;
   margin: auto;
   margin-right: 30px;
@@ -72,11 +72,14 @@ h2 {
 
 }
 
-.education h2 {
+.backinfo h2 {
   font-family: sans-serif;
   text-align: center;
 }
 
+.backinfo h3 {
+  font-family: serif;
+}
 .backgroundpic {
   width: 20%;
   float: right;
