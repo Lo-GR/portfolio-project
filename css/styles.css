@@ -7,11 +7,13 @@
 body {
   background-color: #EAFFFD;
   box-sizing: border-box;
-}
-
-h2 {
   font-family:serif;
 }
+
+.highlight {
+  color: #F46036;
+}
+
 
 #title {
   text-align: center;
@@ -43,6 +45,7 @@ h2 {
   font-family: sans-serif;
   text-align: center;
 }
+
 
 .personalpic {
   width: 20%;
@@ -78,7 +81,8 @@ h2 {
 }
 
 .backinfo h3 {
-  font-family: serif;
+  font-style: italic;
+  font-family: sans-serif;
 }
 .backgroundpic {
   width: 20%;
