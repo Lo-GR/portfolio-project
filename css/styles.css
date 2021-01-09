@@ -1,22 +1,20 @@
- /* html, body {
-  padding: 0;
-  margin: 0;
-}  */
-
 
 body {
   background-color: #EAFFFD;
   box-sizing: border-box;
   font-family:serif;
 }
+
 footer {
   font-size: small;
 }
+
 .highlight {
   color: #F46036;
 }
-
-
+.miniheader {
+  text-decoration: underline;
+}
 #title {
   text-align: center;
 }
@@ -30,7 +28,6 @@ footer {
   margin-left: auto;
   margin-right: auto;
   box-align: center;
-
 }
 
 .aboutme p {
@@ -40,14 +37,12 @@ footer {
   margin-right: 30px;
   height: auto;
   max-width: 70%;
-
 }
 
 .aboutme h2 {
   font-family: sans-serif;
   text-align: center;
 }
-
 
 .personalpic {
   width: 20%;
@@ -56,6 +51,7 @@ footer {
   border-style: solid;
   border-color: black;
 }
+
 .backinfo {
   width: 75%;
   height: auto;
@@ -65,7 +61,6 @@ footer {
   margin-left: auto;
   margin-right: auto;
   box-align: center;
-
 }
 
 .backinfo p {
@@ -74,7 +69,6 @@ footer {
   margin-right: 30px;
   height: auto;
   min-width: 70%;
-
 }
 
 .backinfo h2 {
@@ -86,6 +80,7 @@ footer {
   font-style: italic;
   font-family: sans-serif;
 }
+
 .backgroundpic {
   width: 20%;
   float: right;
