@@ -3,6 +3,7 @@ body {
   background-color: #EAFFFD;
   box-sizing: border-box;
   font-family:serif;
+  color: #474747;
 }
 
 footer {
@@ -49,7 +50,7 @@ footer {
   margin: auto;
   height: auto;
   border-style: solid;
-  border-color: black;
+  border-color: #E6AF2E;
 }
 
 .backinfo {
@@ -87,5 +88,5 @@ footer {
   margin: auto;
   height: auto;
   border-style: solid;
-  border-color: black;
+  border-color: #E6AF2E;
 }

@@ -27,7 +27,7 @@ This browser page includes the complete works of Logan's work at Epicodus, inclu
 * Open index.html in browser of choice.
 
 ## _Known Bugs_
-* No known bugs at this time. Please contact Contributor if one is discovered during use.
+* About Me box formatted in such as way as text breaks out of box when shrinking window.
 
 ## _License_
 
