@@ -17,17 +17,16 @@
 This browser page includes the complete works of Logan's work at Epicodus, including finished and unfinished quality work. Also includes an about Me, background, and other personal information about Logan.
 
 ## _Setup/Installation_
-* In Git terminal:
-1. Type _cd desktop_ to change directory to desktop. 
-2. Type _touch portfolio-project_ to create directory. 
-3. Type _cd portfolio-project_. 
-4. Type _git clone https://github.com/Lo-GR/portfolio-project.git_.
-5. Type _exit_ to leave terminal.
-* Go to portfolio-project directory in OS GUI. 
-* Open index.html in browser of choice.
+>Repository: https://github.com/Lo-GR/portfolio-project.git
+1. Clone this repository from Github
+2. Navigate to the root directory of the project in your terminal and type "open index.html" to view the project in your default browser.
+3. Open the project in your text editor to view the code.
 
 ## _Known Bugs_
 * About Me box formatted in such as way as text breaks out of box when shrinking window.
+
+## _GitHub-Pages_
+View a live version of this page [here on the Github Pages.](https://lo-gr.github.io/portfolio-project/)
 
 ## _License_
 
